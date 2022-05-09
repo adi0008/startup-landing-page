@@ -39,5 +39,5 @@ h1{
 }
 
 .buffer{
-  height: 8rem; /*why is andrei's height rem is 10 but mine 8 and they produce the same results*/
+  height: 8rem;  
 }
